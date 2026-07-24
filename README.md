@@ -1,0 +1,2 @@
+# PracticeQAJS
+Javascript coding practice
